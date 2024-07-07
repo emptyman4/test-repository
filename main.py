@@ -1,3 +1,4 @@
 name = input('Your name: ')
 
-print(f'Hello {name}')
+msg = f'Hello {name}'
+print(msg)
